@@ -2,8 +2,5 @@
 
 Let's learn!
 
-New things! <-- not added nor commited in main :)
+lines were deleted in testbranch2
 
-staged in main
-
-some other stuff
