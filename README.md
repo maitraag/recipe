@@ -2,4 +2,4 @@
 
 Let's learn!
 
-deleted in testbranch1
+lines were deleted in both branches
