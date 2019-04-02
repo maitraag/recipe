@@ -1,3 +1,4 @@
 uus fail
 teine rida
+kolmas rida
 
