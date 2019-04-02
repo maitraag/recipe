@@ -1,0 +1,19 @@
+---
+title: "Opioidsete ravimite tarvitamine"
+author: "Mait Raag"
+date: "`r Sys.time()`"
+output:
+  html_document:
+    fig_height: 4
+    number_sections: yes
+    theme: cerulean
+    toc: yes
+    toc_float:
+      toc_collapsed: yes
+---
+
+# See on tore analüüs
+
+```{r}
+hist(rnorm(100))
+```
